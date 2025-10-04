@@ -1,0 +1,48 @@
+﻿ID,Data,Produto,Categoria,Quantidade,Preço
+1,2023-05-21,Micro-ondas,Eletrodomésticos,2,246.29
+2,2023-02-22,Camiseta,Vestuário,4,112.79
+3,2023-08-05,Micro-ondas,Eletrodomésticos,9,484.71
+4,2023-04-30,Notebook,Eletrônicos,1,743.43
+5,2023-04-12,Sofá,Móveis,10,371.65
+6,2023-08-18,Liquidificador,Eletrodomésticos,9,1765.15
+7,2023-01-04,Geladeira,Eletrodomésticos,5,3266.31
+8,2023-03-21,Fone de Ouvido,Eletrônicos,7,2173.45
+9,2023-07-14,Camiseta,Vestuário,6,95.99
+10,2023-11-06,Smartphone,Eletrônicos,6,5115.47
+11,2023-10-02,Calça Jeans,Vestuário,1,378.38
+12,2023-05-31,Smartphone,Eletrônicos,7,657.04
+13,2023-07-05,Micro-ondas,Eletrodomésticos,10,3558.99
+14,2023-01-24,Geladeira,Eletrodomésticos,4,2862.6
+15,2023-02-10,Micro-ondas,Eletrodomésticos,4,3126.31
+16,2023-08-21,Camiseta,Outros,2,221.06
+17,2023-07-01,Micro-ondas,Eletrodomésticos,6,776.22
+18,2023-12-16,Camiseta,Vestuário,5,365.82
+19,2023-03-29,Micro-ondas,Eletrodomésticos,2,2495.15
+20,2023-07-14,Sofá,Outros,4,741.19
+21,2023-06-16,Calça Jeans,Vestuário,9,148.83
+22,2023-06-11,Notebook,Eletrônicos,4,4966.46
+23,2023-10-18,Cadeira Gamer,Móveis,5,478.71
+24,2023-09-13,Liquidificador,Eletrodomésticos,6,968.61
+25,2023-03-13,Cadeira Gamer,Móveis,8,685.75
+26,2023-10-27,Camiseta,Vestuário,9,292.54
+27,2023-04-23,Cadeira Gamer,Móveis,10,1378.38
+28,2023-01-25,Fone de Ouvido,Eletrônicos,9,3062.39
+29,2023-12-15,Smartphone,Eletrônicos,3,3839.19
+30,2023-07-15,Cadeira Gamer,Móveis,10,471.52
+31,2023-10-11,Geladeira,Eletrodomésticos,8,2187.09
+32,2023-10-02,Notebook,Eletrônicos,2,4153.92
+33,2023-08-11,Calça Jeans,Vestuário,6,100.2
+34,2023-05-15,Fone de Ouvido,Eletrônicos,8,218.82
+35,2023-02-24,Sofá,Móveis,3,1670.74
+36,2023-09-17,Micro-ondas,Eletrodomésticos,5,3390.43
+37,2023-03-24,Geladeira,Eletrodomésticos,4,738.43
+39,2023-07-05,Tênis,Vestuário,8,58.76
+40,2023-10-18,Calça Jeans,Vestuário,4,76.07
+41,2023-02-05,Smartphone,Eletrônicos,2,4445.06
+42,2023-09-01,Sofá,Móveis,3,646.66
+43,2023-11-07,Sofá,Móveis,3,1015.65
+44,2023-12-20,Cadeira Gamer,Móveis,4,2808.07
+45,2023-12-10,Camiseta,Vestuário,5,229.55
+46,2023-09-22,Micro-ondas,Outros,6,1836.69
+47,2023-02-02,Mesa de Escritório,Móveis,2,969.35
+49,2023-12-29,Geladeira,Eletrodomésticos,4,177.68
